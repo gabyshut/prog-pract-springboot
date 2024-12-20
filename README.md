@@ -1,4 +1,4 @@
-# README: Spring Boot Demo Application
+# Spring Boot Demo Application
 
 ## Описание проекта
 
